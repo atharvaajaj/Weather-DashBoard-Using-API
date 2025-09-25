@@ -55,7 +55,9 @@ It provides a comprehensive view of environmental conditions, enabling better un
 - **Power BI Desktop** (Data Modeling + Visualization)  
 - **DAX Measures** (for AQI color coding & health suggestions)  
 - **WeatherAPI** (for weather data source)  
+## Data Sources
 
+- [WeatherAPI](https://weatherapi.com/)
 ---
 
 ✨ Built by Atharva Joshi  
